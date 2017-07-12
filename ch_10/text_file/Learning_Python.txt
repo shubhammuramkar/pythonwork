@@ -1,0 +1,2 @@
+In Python you can I have learn so far are:
+In Python you can lists, dicti , loops , classes , functions , manymore stuff
